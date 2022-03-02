@@ -1,1 +1,2 @@
 test file 
+Conflict line from master
